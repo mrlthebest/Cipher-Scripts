@@ -25,3 +25,12 @@ Choose your language:
     └── pt-BR/
         └── README.md
         └── LIBRARY.md
+
+
+---
+
+> _Im not a programmer, it's just a hobby._  
+> Contact: mrlthebest.  
+
+
+---
