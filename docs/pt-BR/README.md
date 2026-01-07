@@ -47,7 +47,7 @@ Todas as funções globais disponíveis e os atalhos de macros estão documentad
 Ela também contém atalhos usados para ativar, desativar ou controlar macros específicas.
 
 📚 Biblioteca de Documentação  
-https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt
+[LIBRARY](https://github.com/mrlthebest/Cipher-Scripts/blob/main/docs/pt-BR/LIBRARY.md)
 
 ---
 
@@ -67,5 +67,6 @@ Caso ocorra algum erro relacionado aos scripts customizados:
 
 > _Im not a programmer, it's just a hobby._  
 > Contact: mrlthebest.  
+
 
 ---
