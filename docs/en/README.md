@@ -46,7 +46,7 @@ All available global functions and macro shortcuts are documented in the library
 It also includes shortcuts used to enable, disable, or control specific macros.
 
 📚 Documentation Library  
-https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt
+[LIBRARY](https://github.com/mrlthebest/Cipher-Scripts/blob/main/docs/en/LIBRARY.md)
 
 ---
 
@@ -66,5 +66,6 @@ If you encounter any issues related to custom scripts:
 
 > _Im not a programmer, it's just a hobby._  
 > Contact: mrlthebest.  
+
 
 ---
